@@ -1,4 +1,2 @@
 [flake8]
-inline-quotes = double
-max-line-length = 88
-extend-ignore = E203, B006, B008
+ignore = Q000,E501

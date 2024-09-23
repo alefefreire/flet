@@ -9,6 +9,7 @@ packages = [{include = "password_generator"}]
 [tool.poetry.dependencies]
 python = "^3.12"
 flet = "^0.24.1"
+pydantic = "^2.9.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.3.1"
